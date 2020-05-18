@@ -1,6 +1,6 @@
 package universeSchet;
 
 class ListElement {
-    ListElement next; // ‚
+    ListElement next;
     String data;
 }
